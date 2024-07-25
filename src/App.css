@@ -1,3 +1,5 @@
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -14,5 +16,16 @@
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+}
+
+.Services_Container{
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;    /* Center vertically */
+  height: 100vh;          /* Full height of the viewport */
+}
+.Form_Conatiner_Services{
+  width: 600px;
+  height: 400px;
 }
 

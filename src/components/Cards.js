@@ -10,36 +10,36 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              src='https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp'
+              text='SAP BTP CAPM '
+              label='Trending'
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              src='https://futurelabstechnology.com/wp-content/uploads/elementor/thumbs/SAP-ABAP-ON-HANA-01-4-q5ovox1kxv5wjbk929f09nudmvokrci0ynudfqq5p4.jpg'
+              text='SAP ABAP on HANA '
+              label='Trending'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKgyHpEHbeEjEWi74QGD6RB3x1Nibj67QqZ8SA_GOxgDF34ncKadaTefMK5gMOs1DkCk&usqp=CAU'
+              text='SAP IBP'
+              label='Trending'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/products'
+              src='https://clickysoft.com/wp-content/uploads/2023/11/Benefits-of-MERN-Stack-Developers.jpg'
+              text='Mern Stack Development'
+              label='Trending'
+              path='/services'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='https://online-technobridge.com/uploads/thumbnails/course_thumbnails/course_thumbnail_default_19.jpg'
+              text='Full Stack Java '
+              label='Trending'
+              path='/services'
             />
           </ul>
         </div>
