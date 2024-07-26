@@ -11,8 +11,9 @@ export default function SignUp() {
     <>
      <Navbar></Navbar>
     <div className='Services_Container' >
-    <Image src="https://react-bootstrap.netlify.app/img/logo.svg"  width={"50px"}  height={"40px"} roundedCircle />
+   
       <div className='Form_Conatiner_Services' >
+      <Image src="https://e7.pngegg.com/pngimages/198/657/png-clipart-yocale-logo-business-cards-sales-others-miscellaneous-service.png"  width={"150px"}  height={"140px"} roundedCircle  className='Signup_image' />
       <FloatingLabel
         controlId="floatingInput"
         label="User Name"

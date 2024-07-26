@@ -1,0 +1,861 @@
+[
+    {
+      "id": 1,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Inventory Management System",
+      "description": "Track stock levels, orders, sales, and deliveries."
+    },
+    {
+      "id": 2,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Customer Relationship Management (CRM)",
+      "description": "Manage customer data, interactions, and sales pipelines."
+    },
+    {
+      "id": 3,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Human Resource Management (HRM)",
+      "description": "Handle employee data, payroll, recruitment, and performance evaluations."
+    },
+    {
+      "id": 4,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Project Management Tool",
+      "description": "Plan, execute, and track project progress."
+    },
+    {
+      "id": 5,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Billing and Invoicing System",
+      "description": "Generate invoices, manage billing cycles, and track payments."
+    },
+    {
+      "id": 6,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Procurement Management System",
+      "description": "Manage procurement processes, supplier relationships, and purchase orders."
+    },
+    {
+      "id": 7,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Expense Management System",
+      "description": "Track and manage employee expenses and reimbursements."
+    },
+    {
+      "id": 8,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Asset Management System",
+      "description": "Monitor and manage company assets and equipment."
+    },
+    {
+      "id": 9,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "E-commerce Platform",
+      "description": "Complete online store with product listings, shopping cart, and checkout process."
+    },
+    {
+      "id": 10,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Vendor Management System",
+      "description": "Manage vendor relationships, contracts, and performance."
+    },
+    {
+      "id": 11,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Travel Management System",
+      "description": "Plan and manage business travel arrangements and expenses."
+    },
+    {
+      "id": 12,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Timesheet Management System",
+      "description": "Track employee working hours and project time allocation."
+    },
+    {
+      "id": 13,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Learning Management System (LMS)",
+      "description": "Deliver and manage employee training programs and courses."
+    },
+    {
+      "id": 14,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Supplier Management System",
+      "description": "Manage supplier data, procurement processes, and supplier evaluations."
+    },
+    {
+      "id": 15,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Quality Management System",
+      "description": "Ensure product and service quality through process management and compliance tracking."
+    },
+    {
+      "id": 16,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Warehouse Management System",
+      "description": "Optimize warehouse operations, inventory tracking, and order fulfillment."
+    },
+    {
+      "id": 17,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Sales Order Management System",
+      "description": "Manage sales orders, customer details, and order fulfillment processes."
+    },
+    {
+      "id": 18,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Production Planning System",
+      "description": "Plan and manage manufacturing processes, production schedules, and resource allocation."
+    },
+    {
+      "id": 19,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Maintenance Management System",
+      "description": "Schedule and track equipment maintenance activities and maintenance history."
+    },
+    {
+      "id": 20,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Fleet Management System",
+      "description": "Monitor and manage company vehicles, maintenance, and usage."
+    },
+    {
+      "id": 21,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Complaint Management System",
+      "description": "Handle customer complaints, track resolutions, and improve customer satisfaction."
+    },
+    {
+      "id": 22,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Event Management System",
+      "description": "Plan and manage corporate events, conferences, and meetings."
+    },
+    {
+      "id": 23,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Contract Management System",
+      "description": "Manage contracts, track contract lifecycle, and ensure compliance."
+    },
+    {
+      "id": 24,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Document Management System",
+      "description": "Store, organize, and manage company documents and records."
+    },
+    {
+      "id": 25,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Health and Safety Management System",
+      "description": "Ensure workplace safety and compliance with health regulations."
+    },
+    {
+      "id": 26,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Customer Feedback System",
+      "description": "Collect and analyze customer feedback to improve products and services."
+    },
+    {
+      "id": 27,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Product Lifecycle Management (PLM)",
+      "description": "Manage the entire lifecycle of a product from inception to disposal."
+    },
+    {
+      "id": 28,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Marketing Campaign Management",
+      "description": "Plan, execute, and track marketing campaigns and performance metrics."
+    },
+    {
+      "id": 29,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Financial Management System",
+      "description": "Manage financial operations, budgeting, and reporting."
+    },
+    {
+      "id": 30,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Supply Chain Management (SCM)",
+      "description": "Optimize the flow of goods, information, and finances in the supply chain."
+    },
+    {
+      "id": 31,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Fleet Maintenance System",
+      "description": "Track vehicle maintenance schedules and manage fleet service records."
+    },
+    {
+      "id": 32,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Payroll Management System",
+      "description": "Automate payroll processing, tax calculations, and salary disbursements."
+    },
+    {
+      "id": 33,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Employee Performance Management",
+      "description": "Evaluate employee performance, set goals, and track achievements."
+    },
+    {
+      "id": 34,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Customer Support System",
+      "description": "Manage customer support tickets, inquiries, and resolutions."
+    },
+    {
+      "id": 35,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "E-learning Platform",
+      "description": "Deliver online courses, track learner progress, and manage course content."
+    },
+    {
+      "id": 36,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Budgeting and Forecasting System",
+      "description": "Plan budgets, forecast financial performance, and track expenditures."
+    },
+    {
+      "id": 37,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Procurement Portal",
+      "description": "Streamline the procurement process through a centralized portal."
+    },
+    {
+      "id": 38,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Order Fulfillment System",
+      "description": "Manage order processing, inventory allocation, and shipping."
+    },
+    {
+      "id": 39,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Customer Loyalty Program",
+      "description": "Track customer purchases and reward loyalty with points and discounts."
+    },
+    {
+      "id": 40,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Expense Reporting System",
+      "description": "Automate the expense reporting process and ensure policy compliance."
+    },
+    {
+      "id": 41,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Incident Management System",
+      "description": "Track and manage incidents, assign resolutions, and ensure follow-up."
+    },
+    {
+      "id": 42,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Project Time Tracking System",
+      "description": "Track project hours, billable time, and resource allocation."
+    },
+    {
+      "id": 43,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Learning and Development System",
+      "description": "Plan and manage employee training programs and career development."
+    },
+    {
+      "id": 44,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Supplier Portal",
+      "description": "Provide suppliers with access to procurement processes and order tracking."
+    },
+    {
+      "id": 45,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Production Scheduling System",
+      "description": "Optimize production schedules and resource allocation."
+    },
+    {
+      "id": 46,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Workforce Management System",
+      "description": "Manage employee schedules, time tracking, and workforce planning."
+    },
+    {
+      "id": 47,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Supplier Risk Management",
+      "description": "Identify and mitigate risks in the supply chain."
+    },
+    {
+      "id": 48,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Product Catalog Management",
+      "description": "Manage product listings, descriptions, and pricing."
+    },
+    {
+      "id": 49,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Customer Data Management",
+      "description": "Centralize and manage customer data for better insights and decision-making."
+    },
+    {
+      "id": 50,
+      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+      "title": "Performance Dashboard",
+      "description": "Visualize key performance indicators (KPIs) and business metrics."
+    },
+    {
+        "id": 51,
+        "title": "Order Tracking System",
+        "description": "Track the status of customer orders from processing to delivery.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 52,
+        "title": "Real-time Analytics Dashboard",
+        "description": "Provide real-time data analytics and visualization for business operations.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 53,
+        "title": "Employee Training Portal",
+        "description": "Manage and track employee training programs and certifications.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 54,
+        "title": "Customer Self-Service Portal",
+        "description": "Allow customers to view and manage their accounts, orders, and support tickets.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 55,
+        "title": "IoT Device Management System",
+        "description": "Monitor and manage IoT devices and data streams.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 56,
+        "title": "Sales Performance Tracker",
+        "description": "Track and analyze sales team performance metrics.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 57,
+        "title": "Budget Tracking System",
+        "description": "Track and manage budgets across departments and projects.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 58,
+        "title": "Work Order Management System",
+        "description": "Create, assign, and track work orders for maintenance and repairs.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 59,
+        "title": "Vendor Performance Tracker",
+        "description": "Evaluate and track vendor performance and compliance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 60,
+        "title": "Customer Onboarding System",
+        "description": "Streamline and manage the customer onboarding process.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 61,
+        "title": "Marketing Automation Platform",
+        "description": "Automate marketing campaigns and track their effectiveness.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 62,
+        "title": "Supplier Collaboration Portal",
+        "description": "Enable collaboration and communication with suppliers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 63,
+        "title": "Project Budgeting Tool",
+        "description": "Plan and track project budgets and financial performance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 64,
+        "title": "Customer Engagement Platform",
+        "description": "Engage with customers through personalized communications and offers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 65,
+        "title": "Compliance Management System",
+        "description": "Ensure regulatory compliance and manage compliance audits.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 66,
+        "title": "Resource Allocation System",
+        "description": "Allocate resources effectively across projects and departments.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 67,
+        "title": "Customer Retention System",
+        "description": "Identify at-risk customers and implement retention strategies.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 68,
+        "title": "Product Configuration Tool",
+        "description": "Allow customers to configure and customize products online.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 69,
+        "title": "Digital Asset Management",
+        "description": "Store, organize, and manage digital assets like images and videos.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 70,
+        "title": "Customer Portal",
+        "description": "Provide a centralized portal for customers to access services and support.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 71,
+        "title": "Performance Appraisal System",
+        "description": "Conduct and manage employee performance appraisals.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 72,
+        "title": "Customer Insights Platform",
+        "description": "Gain insights into customer behavior and preferences through data analysis.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 73,
+        "title": "Supplier Onboarding System",
+        "description": "Streamline the onboarding process for new suppliers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 74,
+        "title": "Incident Reporting System",
+        "description": "Report and track incidents and ensure timely resolutions.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 75,
+        "title": "Field Service Management",
+        "description": "Manage field service operations, scheduling, and technician assignments.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 76,
+        "title": "Job Application Tracking System",
+        "description": "Track job applications and manage the recruitment process.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 77,
+        "title": "Employee Onboarding System",
+        "description": "Automate and manage the employee onboarding process.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 78,
+        "title": "Supplier Invoice Management",
+        "description": "Automate the processing and approval of supplier invoices.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 79,
+        "title": "Remote Work Management",
+        "description": "Manage and monitor remote work activities and productivity.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 80,
+        "title": "Data Governance Platform",
+        "description": "Ensure data quality, security, and compliance with governance policies.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 81,
+        "title": "Internal Communication Platform",
+        "description": "Facilitate internal communication and collaboration within the organization.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 82,
+        "title": "Customer Loyalty Management",
+        "description": "Manage loyalty programs and track customer engagement.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 83,
+        "title": "Environmental Monitoring System",
+        "description": "Monitor environmental factors and ensure regulatory compliance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 84,
+        "title": "Sales Forecasting Tool",
+        "description": "Predict future sales and plan inventory accordingly.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 85,
+        "title": "Customer Engagement Hub",
+        "description": "Centralize customer interactions across multiple channels.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 86,
+        "title": "Workforce Analytics Platform",
+        "description": "Analyze workforce data to optimize employee performance and satisfaction.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 87,
+        "title": "E-commerce Analytics",
+        "description": "Analyze e-commerce data to improve sales and customer experience.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 88,
+        "title": "Project Collaboration Platform",
+        "description": "Enable collaboration and communication within project teams.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 89,
+        "title": "Digital Marketing Dashboard",
+        "description": "Track and analyze digital marketing campaign performance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 90,
+        "title": "Customer Journey Mapping Tool",
+        "description": "Visualize and analyze customer journeys across touchpoints.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 91,
+        "title": "Employee Wellness Platform",
+        "description": "Promote and track employee wellness programs and activities.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 92,
+        "title": "Inventory Forecasting Tool",
+        "description": "Predict inventory needs and optimize stock levels.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 93,
+        "title": "Customer Success Platform",
+        "description": "Manage customer success initiatives and track customer satisfaction.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 94,
+        "title": "Sales Incentive Management",
+        "description": "Manage and track sales incentives and commissions.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 95,
+        "title": "Supplier Diversity Tracking",
+        "description": "Track and manage supplier diversity and inclusion initiatives.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 96,
+        "title": "E-commerce Personalization",
+        "description": "Deliver personalized shopping experiences to customers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 97,
+        "title": "Virtual Event Platform",
+        "description": "Host and manage virtual events, webinars, and conferences.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 98,
+        "title": "Workplace Safety Tracking",
+        "description": "Monitor and manage workplace safety incidents and compliance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 99,
+        "title": "Customer Advocacy Platform",
+        "description": "Encourage and track customer advocacy and referrals.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 100,
+        "title": "Employee Engagement Survey",
+        "description": "Conduct and analyze employee engagement surveys.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 101,
+        "title": "Customer Support Chatbot",
+        "description": "Provide automated customer support through chatbots.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 102,
+        "title": "Supplier Performance Analytics",
+        "description": "Analyze and visualize supplier performance metrics.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 103,
+        "title": "Employee Recognition Platform",
+        "description": "Recognize and reward employee achievements and contributions.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 104,
+        "title": "Customer Experience Analytics",
+        "description": "Analyze customer experiences and identify improvement areas.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 105,
+        "title": "Inventory Optimization Tool",
+        "description": "Optimize inventory levels and reduce stockouts and overstock.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 106,
+        "title": "Employee Training Tracker",
+        "description": "Track employee training progress and certification status.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 107,
+        "title": "Customer Account Management",
+        "description": "Manage customer accounts, contacts, and interactions.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 108,
+        "title": "Procurement Spend Analytics",
+        "description": "Analyze procurement spending and identify cost-saving opportunities.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 109,
+        "title": "Sales Pipeline Management",
+        "description": "Manage and track sales opportunities and pipeline stages.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 110,
+        "title": "Supplier Contract Management",
+        "description": "Manage supplier contracts and track contract compliance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 111,
+        "title": "E-commerce Conversion Optimization",
+        "description": "Improve e-commerce site conversion rates through data analysis.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 112,
+        "title": "Remote Collaboration Platform",
+        "description": "Facilitate remote team collaboration and project management.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 113,
+        "title": "Employee Exit Management",
+        "description": "Manage employee exit processes and exit interviews.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 114,
+        "title": "Customer Sentiment Analysis",
+        "description": "Analyze customer feedback and sentiment from various sources.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 115,
+        "title": "Inventory Demand Planning",
+        "description": "Forecast inventory demand and plan stock levels.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 116,
+        "title": "Supplier Collaboration Portal",
+        "description": "Collaborate with suppliers on procurement and supply chain processes.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 117,
+        "title": "Employee Skill Assessment",
+        "description": "Assess and track employee skills and competencies.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 118,
+        "title": "Customer Data Integration",
+        "description": "Integrate customer data from various sources for a unified view.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 119,
+        "title": "E-commerce Fraud Detection",
+        "description": "Identify and prevent fraudulent activities in e-commerce transactions.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 120,
+        "title": "Supplier Audit Management",
+        "description": "Plan and manage supplier audits and track audit findings.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 121,
+        "title": "Employee Recruitment Analytics",
+        "description": "Analyze recruitment data to optimize hiring processes.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 122,
+        "title": "Customer Loyalty Dashboard",
+        "description": "Visualize and track customer loyalty metrics and trends.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 123,
+        "title": "Inventory Turnover Analysis",
+        "description": "Analyze inventory turnover rates and optimize stock levels.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 124,
+        "title": "Supplier Collaboration Platform",
+        "description": "Facilitate collaboration and communication with suppliers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 125,
+        "title": "Employee Feedback Portal",
+        "description": "Collect and analyze employee feedback to improve workplace culture.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 126,
+        "title": "Customer Support Analytics",
+        "description": "Analyze customer support data to improve service quality.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 127,
+        "title": "Supplier Quality Management",
+        "description": "Ensure supplier quality through monitoring and compliance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 128,
+        "title": "E-commerce Order Tracking",
+        "description": "Track and manage e-commerce order fulfillment and delivery.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 129,
+        "title": "Employee Career Pathing",
+        "description": "Plan and track employee career development paths.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 130,
+        "title": "Customer Data Governance",
+        "description": "Ensure data quality and compliance in customer data management.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 131,
+        "title": "Supplier Relationship Analytics",
+        "description": "Analyze and improve supplier relationships and performance.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 132,
+        "title": "Inventory Replenishment System",
+        "description": "Automate inventory replenishment based on demand and stock levels.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 133,
+        "title": "Customer Service Training Platform",
+        "description": "Provide training and resources for customer service teams.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 134,
+        "title": "Supplier Invoice Management",
+        "description": "Manage and track supplier invoices and payments.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 135,
+        "title": "Customer Interaction Analytics",
+        "description": "Analyze customer interactions to improve engagement and service.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 136,
+        "title": "Supplier Inventory Management",
+        "description": "Track and manage supplier inventory levels and availability.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 137,
+        "title": "Employee Onboarding Portal",
+        "description": "Streamline employee onboarding processes and documentation.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 138,
+        "title": "Customer Support Portal",
+        "description": "Provide self-service support options and resources for customers.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 139,
+        "title": "Inventory Lifecycle Management",
+        "description": "Manage inventory lifecycle from acquisition to disposal.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 140,
+        "title": "Customer Complaint Analysis",
+        "description": "Analyze customer complaints to identify trends and root causes.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 141,
+        "title": "Supplier Onboarding Portal",
+        "description": "Streamline the supplier onboarding process and documentation.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 142,
+        "title": "Customer Data Analysis",
+        "description": "Analyze customer data for insights and decision-making.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      },
+      {
+        "id": 143,
+        "title": "Employee Learning Platform",
+        "description": "Provide learning resources and track employee learning progress.",
+        "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp"
+      }
+  ]
+  

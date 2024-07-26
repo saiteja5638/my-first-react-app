@@ -6,12 +6,17 @@ import Home from './components/pages/Home';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import Courses from './components/pages/Courses'
 
 const router = createBrowserRouter([
   {
       path : '/',
       element : <Home></Home>
   },
+  {
+    path : '/Courses',
+    element : <Courses></Courses>
+},
   {
     path : '/services',
     element : <Services></Services>

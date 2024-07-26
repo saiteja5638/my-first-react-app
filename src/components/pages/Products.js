@@ -1,10 +1,26 @@
 import React from 'react';
 import '../../App.css';
+import Navbar from '../Navbar';
+import Cards from '../Cards';
+import CardItem from '../CardItem';
+import modelData  from '../model/projects.json'
 
 export default function Products() {
   return (
     <>
-    <h1>sagcs</h1>
+      <Navbar />
+      <div className='Projects_container'>
+        {modelData.map((item, index) => (
+          <div className='Proj_container_item' key={index}>
+            <CardItem
+              src={item.src}
+              text={item.description}
+              label={item.title}
+              path={item.path}
+            />
+          </div>
+        ))}
+      </div>
     </>
   );
 }
