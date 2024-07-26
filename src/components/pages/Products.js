@@ -14,8 +14,8 @@ export default function Products() {
           <div className='Proj_container_item' key={index}>
             <CardItem
               src={item.src}
-              text={item.description}
-              label={item.title}
+              text={item.title}
+              label={item.description}
               path={item.path}
             />
           </div>
