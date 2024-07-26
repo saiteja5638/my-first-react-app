@@ -3,7 +3,8 @@ import '../../App.css';
 import Navbar from '../Navbar';
 import Cards from '../Cards';
 import CardItem from '../CardItem';
-import Cour  from '../model/Courses.json'
+import Cour  from '../model/Courses.json';
+import Footer from '../Footer';
 
 export default function Courses()
 {
@@ -22,6 +23,7 @@ export default function Courses()
           </div>
         ))}
       </div>
+      <Footer/>
         </>
     )
 }

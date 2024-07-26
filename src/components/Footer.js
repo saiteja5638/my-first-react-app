@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          these Application Created & Support under Cherviralla Sai teja
+          Currently Application is in Development Stage
         </p>
         <div className='input-areas'>
           <form>

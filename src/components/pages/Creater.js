@@ -1,13 +1,14 @@
 import React from 'react';
 import '../../App.css';
 import Navbar from '../Navbar';
-
+import Footer from '../Footer';
 
 export default function Creater()
 {
     return(
         <>
         <Navbar />
+        <h1  className='Header_H1_Creater'  > Application Creater & Developer </h1>
         <div className='Creater_main_container' >
             <div className='Creater_Info_container' >
                <div className='Creater_head_content' >
@@ -26,6 +27,7 @@ export default function Creater()
             </div>
 
         </div>
+        <Footer/>
         </>
     )
 }
