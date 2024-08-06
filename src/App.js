@@ -7,6 +7,7 @@ import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 import Courses from './components/pages/Courses';
+import Dashboard from './components/pages/Dashboard';
 import Creater from './components/pages/Creater';
 
 const router = createBrowserRouter([
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
 {
   path : '/sign-up',
   element : <SignUp></SignUp>
+},
+{
+  path : '/dashboard',
+  element : <Dashboard></Dashboard>
 }
 ])
 function App() {
