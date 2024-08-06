@@ -13,8 +13,8 @@ export default function Dashboard()
                 <div className='container_apps' >
                 <div className='Card_item' >
                 <CardItem
-              src='https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp'
-              text='SAP BTP CAPM '
+              src='https://thumbs.dreamstime.com/b/print-172241497.jpg'
+              text='Tech Experts'
               label='Trending'
               path='/services'
             />

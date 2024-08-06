@@ -9,6 +9,7 @@ import SignUp from './components/pages/SignUp';
 import Courses from './components/pages/Courses';
 import Dashboard from './components/pages/Dashboard';
 import Creater from './components/pages/Creater';
+import View from './components/pages/View_Detail';
 
 const router = createBrowserRouter([
   {
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
 {
   path : '/dashboard',
   element : <Dashboard></Dashboard>
+},
+{
+  path : '/view_detail',
+  element : <View></View>
 }
 ])
 function App() {
