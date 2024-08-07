@@ -29,17 +29,20 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-           <h3>Let's Learn</h3>
+            <h3>Let's Learn</h3>
             <i class='fab fa-typo3' />
           </Link>
 
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-          <li className='nav-item'>
+            <li className='nav-item'>
               <Link
                 to='/Courses'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
+                <span class="material-symbols-outlined">
+                  collections_bookmark
+                </span>
                 Courses
               </Link>
             </li>
@@ -49,6 +52,9 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
+                <span class="material-symbols-outlined">
+                  store
+                </span>
                 Project Store
               </Link>
             </li>
@@ -58,11 +64,17 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
+                <span class="material-symbols-outlined">
+                  person
+                </span>
                 Creator
               </Link>
             </li>
             <li className='nav-item'>
               <Link to='/dashboard' className='nav-links' onClick={closeMobileMenu}>
+              <span class="material-symbols-outlined">
+more_vert
+</span>
                 More
               </Link>
             </li>
@@ -72,6 +84,9 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
+                <span class="material-symbols-outlined">
+                  login
+                </span>
                 Sign Up
               </Link>
             </li>
