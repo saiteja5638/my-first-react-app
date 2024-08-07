@@ -49,7 +49,7 @@ export default function View() {
                     <div className='view_detail_descrp_content' >
                         <p>{get_item[0].description} </p>
                     </div>
-
+                    <button className='Buy_Now'  >Buy Now</button>
                     </div>
             </div>
             <Footer />
