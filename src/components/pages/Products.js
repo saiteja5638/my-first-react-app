@@ -10,6 +10,7 @@ export default function Products() {
   return (
     <>
       <Navbar />
+      <h1 className='Projects_header_h1' >Unlock your potential with our premium projects. Dive in and find your perfect match today!</h1>
       <div className='Projects_container'>
         {modelData.map((item, index) => (
           <div className='Proj_container_item' key={index}>

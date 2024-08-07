@@ -49,7 +49,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Projects
+                Project Store
               </Link>
             </li>
             <li className='nav-item'>
