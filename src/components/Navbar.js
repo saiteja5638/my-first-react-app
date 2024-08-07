@@ -32,13 +32,15 @@ function Navbar() {
            <h3>Let's Learn</h3>
             <i class='fab fa-typo3' />
           </Link>
-          <div className='menu-icon' onClick={handleClick}>
-            <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
-          </div>
+
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-            <li className='nav-item'>
-              <Link to='/dashboard' className='nav-links' onClick={closeMobileMenu}>
-                Services
+          <li className='nav-item'>
+              <Link
+                to='/Courses'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                Courses
               </Link>
             </li>
             <li className='nav-item'>
@@ -52,15 +54,6 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/Courses'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Courses
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link
                 to='/creater'
                 className='nav-links'
                 onClick={closeMobileMenu}
@@ -68,18 +61,21 @@ function Navbar() {
                 Creator
               </Link>
             </li>
-
+            <li className='nav-item'>
+              <Link to='/dashboard' className='nav-links' onClick={closeMobileMenu}>
+                More
+              </Link>
+            </li>
             <li>
               <Link
                 to='/sign-up'
-                className='nav-links-mobile'
+                className='nav-links'
                 onClick={closeMobileMenu}
               >
                 Sign Up
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
         </div>
       </nav>
     </>
