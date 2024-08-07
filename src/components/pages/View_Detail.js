@@ -24,21 +24,21 @@ export default function View() {
                             <Carousel.Item interval={800} >
                                 <img
                                     className='Car'
-                                    src="https://miro.medium.com/v2/resize:fit:1200/1*f-0MUEuaILWShigxdiqkjw.jpeg"
+                                    src={get_item[0].img1}
                                     alt="First slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item interval={800} >
                                 <img
                                     className='Car'
-                                    src="https://nttdata-solutions.com/wp-content/usermedia/sap-btp-cloud-blog.jpg"
+                                    src={get_item[0].img2}
                                     alt="Second slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item interval={800} >
                                 <img
                                     className='Car'
-                                    src="https://cdn.bap-software.net/2023/06/SAP-Application.webp"
+                                    src={get_item[0].img3}
                                     alt="Third slide"
                                 />
                             </Carousel.Item>

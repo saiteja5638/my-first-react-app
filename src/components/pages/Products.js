@@ -14,7 +14,7 @@ export default function Products() {
         {modelData.map((item, index) => (
           <div className='Proj_container_item' key={index}>
             <CardItem
-              src={item.src}
+              src={item.img1}
               text={item.title}
               
               path={`/view_detail?$id=${item.id}`}

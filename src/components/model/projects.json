@@ -1,303 +1,242 @@
 [
-    {
-      "id": 1,
-      "src": "https://jelvix.com/wp-content/uploads/2021/05/7.png",
-      "title": "Inventory Management System",
-      "description": "An Inventory Management System (IMS) is a software solution that helps businesses track and manage their stock levels efficiently. 1  It oversees the entire inventory lifecycle, from purchasing and storing to selling and restocking."
-    },
-    {
-      "id": 2,
-      "src": "https://www.cxtoday.com/wp-content/uploads/2022/01/CRM-101-Customer-Relationship-Management.jpeg",
-      "title": "Customer Relationship Management (CRM)",
-      "description": "Customer Relationship Management (CRM) is a strategic approach to managing and analyzing customer interactions and data throughout the customer lifecycle. The goal is to improve customer satisfaction and loyalty"
-    },
-    {
-      "id": 3,
-      "src": "https://jadeer.ai/wp-content/uploads/2023/11/ethics-fair-treatment-in-human-resources-management_.jpg",
-      "title": "Human Resource Management (HRM)",
-      "description": "Human Resource Management (HRM) is the strategic approach to managing an organization's most valuable asset - its people. It involves planning, organizing, directing, and controlling the procurement, development, compensation, integration, maintenance, and separation of human resources"
-    },
-    {
-      "id": 4,
-      "src": "https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/How%20to%20Choose%20the%20Best%20Project%20Management%20Software1643648253991190.jpg",
-      "title": "Project Management Tool",
-      "description": "Project management tools are software applications designed to assist individuals or teams in planning, organizing, and managing projects effectively. They help streamline workflows, improve collaboration, and ensure projects are completed on time and within budget."
-    },
-    {
-      "id": 5,
-      "src": "https://assets.goodfirms.co/blog/top-billing-invoicing-software-features-advantages.jpg",
-      "title": "Billing and Invoicing System",
-      "description": "A billing and invoicing system is a software application that helps businesses generate, manage, and track invoices, as well as process payments. It automates the billing process, reducing manual errors and improving efficiency."
-    },
-    {
-      "id": 6,
-      "src": "https://www.procuredesk.com/wp-content/uploads/2024/02/online-procurement-management-system.jpeg",
-      "title": "Procurement Management System",
-      "description": "A Procurement Management System (PMS) is a software solution designed to streamline and optimize the entire procurement process, from identifying needs to payment. It centralizes and automates various procurement activities, leading to cost savings, efficiency improvements, and risk reduction."
-    },
-    {
-      "id": 7,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Expense Management System",
-      "description": "Track and manage employee expenses and reimbursements."
-    },
-    {
-      "id": 8,
-      "src": "https://coastalkapital.com/wp-content/uploads/2023/01/Young-businessman-shows-the-word-on-the-virtual-display-of-the-future-Asset-management-jpg.webp",
-      "title": "Asset Management System",
-      "description": "An Asset Management System (AMS) is a software solution designed to track, manage, and optimize the lifecycle of an organization's assets. These assets can be tangible (equipment, vehicles, real estate) or intangible (software licenses, intellectual property)."
-    },
-    {
-      "id": 9,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "E-commerce Platform",
-      "description": "Complete online store with product listings, shopping cart, and checkout process."
-    },
-    {
-      "id": 10,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Vendor Management System",
-      "description": "Manage vendor relationships, contracts, and performance."
-    },
-    {
-      "id": 11,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Travel Management System",
-      "description": "Plan and manage business travel arrangements and expenses."
-    },
-    {
-      "id": 12,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Timesheet Management System",
-      "description": "Track employee working hours and project time allocation."
-    },
-    {
-      "id": 13,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Learning Management System (LMS)",
-      "description": "Deliver and manage employee training programs and courses."
-    },
-    {
-      "id": 14,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Supplier Management System",
-      "description": "Manage supplier data, procurement processes, and supplier evaluations."
-    },
-    {
-      "id": 15,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Quality Management System",
-      "description": "Ensure product and service quality through process management and compliance tracking."
-    },
-    {
-      "id": 16,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Warehouse Management System",
-      "description": "Optimize warehouse operations, inventory tracking, and order fulfillment."
-    },
-    {
-      "id": 17,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Sales Order Management System",
-      "description": "Manage sales orders, customer details, and order fulfillment processes."
-    },
-    {
-      "id": 18,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Production Planning System",
-      "description": "Plan and manage manufacturing processes, production schedules, and resource allocation."
-    },
-    {
-      "id": 19,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Maintenance Management System",
-      "description": "Schedule and track equipment maintenance activities and maintenance history."
-    },
-    {
-      "id": 20,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Fleet Management System",
-      "description": "Monitor and manage company vehicles, maintenance, and usage."
-    },
-    {
-      "id": 21,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Complaint Management System",
-      "description": "Handle customer complaints, track resolutions, and improve customer satisfaction."
-    },
-    {
-      "id": 22,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Event Management System",
-      "description": "Plan and manage corporate events, conferences, and meetings."
-    },
-    {
-      "id": 23,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Contract Management System",
-      "description": "Manage contracts, track contract lifecycle, and ensure compliance."
-    },
-    {
-      "id": 24,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Document Management System",
-      "description": "Store, organize, and manage company documents and records."
-    },
-    {
-      "id": 25,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Health and Safety Management System",
-      "description": "Ensure workplace safety and compliance with health regulations."
-    },
-    {
-      "id": 26,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Customer Feedback System",
-      "description": "Collect and analyze customer feedback to improve products and services."
-    },
-    {
-      "id": 27,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Product Lifecycle Management (PLM)",
-      "description": "Manage the entire lifecycle of a product from inception to disposal."
-    },
-    {
-      "id": 28,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Marketing Campaign Management",
-      "description": "Plan, execute, and track marketing campaigns and performance metrics."
-    },
-    {
-      "id": 29,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Financial Management System",
-      "description": "Manage financial operations, budgeting, and reporting."
-    },
-    {
-      "id": 30,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Supply Chain Management (SCM)",
-      "description": "Optimize the flow of goods, information, and finances in the supply chain."
-    },
-    {
-      "id": 31,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Fleet Maintenance System",
-      "description": "Track vehicle maintenance schedules and manage fleet service records."
-    },
-    {
-      "id": 32,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Payroll Management System",
-      "description": "Automate payroll processing, tax calculations, and salary disbursements."
-    },
-    {
-      "id": 33,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Employee Performance Management",
-      "description": "Evaluate employee performance, set goals, and track achievements."
-    },
-    {
-      "id": 34,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Customer Support System",
-      "description": "Manage customer support tickets, inquiries, and resolutions."
-    },
-    {
-      "id": 35,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "E-learning Platform",
-      "description": "Deliver online courses, track learner progress, and manage course content."
-    },
-    {
-      "id": 36,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Budgeting and Forecasting System",
-      "description": "Plan budgets, forecast financial performance, and track expenditures."
-    },
-    {
-      "id": 37,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Procurement Portal",
-      "description": "Streamline the procurement process through a centralized portal."
-    },
-    {
-      "id": 38,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Order Fulfillment System",
-      "description": "Manage order processing, inventory allocation, and shipping."
-    },
-    {
-      "id": 39,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Customer Loyalty Program",
-      "description": "Track customer purchases and reward loyalty with points and discounts."
-    },
-    {
-      "id": 40,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Expense Reporting System",
-      "description": "Automate the expense reporting process and ensure policy compliance."
-    },
-    {
-      "id": 41,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Incident Management System",
-      "description": "Track and manage incidents, assign resolutions, and ensure follow-up."
-    },
-    {
-      "id": 42,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Project Time Tracking System",
-      "description": "Track project hours, billable time, and resource allocation."
-    },
-    {
-      "id": 43,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Learning and Development System",
-      "description": "Plan and manage employee training programs and career development."
-    },
-    {
-      "id": 44,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Supplier Portal",
-      "description": "Provide suppliers with access to procurement processes and order tracking."
-    },
-    {
-      "id": 45,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Production Scheduling System",
-      "description": "Optimize production schedules and resource allocation."
-    },
-    {
-      "id": 46,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Workforce Management System",
-      "description": "Manage employee schedules, time tracking, and workforce planning."
-    },
-    {
-      "id": 47,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Supplier Risk Management",
-      "description": "Identify and mitigate risks in the supply chain."
-    },
-    {
-      "id": 48,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Product Catalog Management",
-      "description": "Manage product listings, descriptions, and pricing."
-    },
-    {
-      "id": 49,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Customer Data Management",
-      "description": "Centralize and manage customer data for better insights and decision-making."
-    },
-    {
-      "id": 50,
-      "src": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
-      "title": "Performance Dashboard",
-      "description": "Visualize key performance indicators (KPIs) and business metrics."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Inventory Management System",
+    "description": "An Inventory Management System is crucial for businesses to maintain an optimal inventory level and reduce carrying costs. This project will focus on creating a comprehensive system using SAP BTP CAPM to track inventory levels, orders, sales, and deliveries. Key features include real-time inventory tracking, automated reorder points, supplier management, and detailed reporting. The system will also integrate with financial and purchasing modules to provide a seamless workflow from procurement to sales. Advanced analytics and forecasting tools will help businesses predict demand and adjust inventory levels accordingly, ensuring they always have the right products in stock.",
+    "img1": "https://d2ms8rpfqc4h24.cloudfront.net/Inventory_Management_System_Guide_371bf8be3a.jpg",
+    "img2": "https://d2ms8rpfqc4h24.cloudfront.net/top_features_of_inventory_management_software_f1cd6b97f7.jpg",
+    "img3": "https://d2ms8rpfqc4h24.cloudfront.net/benefits_of_inventory_management_software_7f227d1328.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Customer Relationship Management (CRM)",
+    "description": "A Customer Relationship Management (CRM) system helps businesses manage interactions with current and potential customers. This project involves developing a CRM system using SAP BTP CAPM that enables businesses to streamline processes, build customer relationships, increase sales, improve customer service, and increase profitability. Features include contact management, sales management, productivity, and more. Additionally, the system will offer analytics tools to track customer interactions, sales pipelines, and customer support metrics. By integrating with other SAP modules, the CRM system will provide a holistic view of customer activities and facilitate better decision-making.",
+    "img1": "https://miro.medium.com/v2/resize:fit:1400/1*_KkRRLl03eeffgQ9v3NC9w.jpeg",
+    "img2": "https://images.spiceworks.com/wp-content/uploads/2020/11/13112623/17.3.png",
+    "img3": "https://www.signitysolutions.com/hubfs/What-is-CRM-min.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Human Resources Management System (HRMS)",
+    "description": "A Human Resources Management System (HRMS) is essential for managing employee information, payroll, recruitment, and other HR activities. This project will develop an HRMS using SAP BTP CAPM to automate and streamline HR processes. Key features include employee records management, payroll processing, recruitment and onboarding, performance evaluation, and compliance management. The system will also provide tools for employee self-service, allowing staff to manage their own profiles, leave requests, and benefits. Integration with other SAP modules will ensure seamless data flow between HR and other business functions, enhancing overall efficiency.",
+    "img1": "https://www.hirequotient.com/_next/image?url=https%3A%2F%2Fstrapi.caseyinterview.com%2Fuploads%2FAdvantages_of_Human_Resource_Management_System_d5b4fb7bd0.png&w=1920&q=75",
+    "img2": "https://media.geeksforgeeks.org/wp-content/uploads/20231115163824/unctions-of-Human-Resource-management-copy.webp",
+    "img3": "https://www.hirequotient.com/_next/image?url=https%3A%2F%2Fstrapi.caseyinterview.com%2Fuploads%2FHuman_Resource_Management_System_Features_and_Functions_471b0717e7.png&w=1920&q=75"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Platform",
+    "description": "An E-commerce Platform project aims to create a robust online store using SAP BTP CAPM. The platform will feature a user-friendly interface for customers to browse products, place orders, and make payments. Backend functionalities will include inventory management, order processing, customer management, and analytics. The system will also integrate with payment gateways and logistics providers to ensure smooth transactions and deliveries. Advanced features like personalized recommendations, promotions, and customer reviews will enhance the shopping experience. The platform will be scalable to accommodate growing business needs and adaptable to various industries.",
+    "img1": "https://286140144.e.cdneverest.net/wp-content/uploads/2022/04/usecase_ecommerce-01-1024x738.png",
+    "img2": "https://cdn.shopify.com/s/files/1/0070/7032/files/ecommerce_20platforms.png?v=1701447416",
+    "img3": "https://www.neelnetworks.com/blog/wp-content/uploads/2017/01/what-are-the-types-of-ecommerce-platforms.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Project Management Tool",
+    "description": "A Project Management Tool helps organizations plan, execute, and monitor projects efficiently. This project will develop a comprehensive tool using SAP BTP CAPM to manage tasks, resources, timelines, and budgets. Features will include task assignments, Gantt charts, resource allocation, and real-time progress tracking. The system will also provide collaboration tools for team communication and document sharing. Advanced analytics will offer insights into project performance, helping managers make informed decisions. Integration with other SAP modules like HR and Finance will provide a unified view of project-related data, enhancing overall project management capabilities.",
+    "img1": "https://www.writergirl.com/wp-content/uploads/2020/02/Project-Organization-blog-2.png",
+    "img2": "https://shrilearning.com/wp-content/uploads/2023/09/project-management-software-tools.png",
+    "img3": "https://www.trickyenough.com/wp-content/uploads/2023/12/Project-Management-Tool.png"
+  },
+  {
+    "id": 6,
+    "title": "Supply Chain Management System",
+    "description": "A Supply Chain Management System (SCMS) aims to enhance the efficiency of the supply chain by managing the flow of goods, data, and finances. This project involves creating an SCMS using SAP BTP CAPM to optimize procurement, production, and distribution processes. Key features include supplier management, inventory control, order processing, and logistics management. The system will also offer real-time visibility into the supply chain, enabling proactive decision-making. Advanced analytics and reporting tools will help identify bottlenecks and improve overall supply chain performance. Integration with ERP systems will ensure seamless data exchange across business functions.",
+    "img1": "https://www.thirdstage-consulting.com/wp-content/uploads/2021/11/Supply-Chain-Management_Top_10.png",
+    "img2": "https://authena.io/wp-content/uploads/2023/01/supply-chain-management.jpg",
+    "img3": "https://nextgeninvent.com/wp-content/uploads/2024/04/Supply-Chain-Management-System-Process.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Financial Management System",
+    "description": "A Financial Management System (FMS) is crucial for managing a company's financial operations, including accounting, budgeting, and financial reporting. This project will develop an FMS using SAP BTP CAPM to automate financial processes and provide accurate financial data. Features will include general ledger, accounts payable and receivable, fixed assets management, and financial planning. The system will also offer robust reporting and analytics tools to monitor financial performance and ensure compliance with regulatory requirements. Integration with other SAP modules like HR and SCM will provide a comprehensive view of the company's financial health, supporting strategic decision-making.",
+    "img1": "https://katenterprise.com/wp-content/uploads/2018/04/fin2.jpg",
+    "img2": "https://katenterprise.com/wp-content/uploads/2018/04/fin1.jpg",
+    "img3": "https://img.freepik.com/premium-photo/two-business-professionals-analyzing-financial-data-charts-with-stacks-gold-coins-repre_1288054-8765.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Healthcare Management System",
+    "description": "A Healthcare Management System (HMS) is designed to streamline healthcare operations, improve patient care, and manage clinical and administrative processes. This project will develop an HMS using SAP BTP CAPM to manage patient records, appointments, billing, and inventory. Key features include electronic health records (EHR), appointment scheduling, patient management, and pharmacy management. The system will also offer tools for clinical decision support, ensuring high-quality patient care. Integration with other SAP modules will provide a holistic view of healthcare operations, improving efficiency and patient outcomes. Advanced analytics will help identify trends and optimize resource utilization.",
+    "img1": "https://aostasoftware.com/wp-content/uploads/2023/02/Hospital-Management-System.jpg",
+    "img2": "https://neetable.com/img/blog/blog-inner/cost-to-develop-a-hospital-management-system/cost-to-develop-a-hospital-management-system.jpg",
+    "img3": "https://www.appletechsoft.com/wp-content/uploads/2020/06/Hospital-Management-System.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Education Management System",
+    "description": "An Education Management System (EMS) is essential for managing academic and administrative activities in educational institutions. This project involves creating an EMS using SAP BTP CAPM to manage student records, admissions, course schedules, and exams. Key features include student information management, attendance tracking, grading systems, and fee management. The system will also provide tools for communication between students, teachers, and parents. Advanced analytics will offer insights into student performance and institutional efficiency. Integration with other SAP modules will ensure smooth data flow across various functions, enhancing the overall management of the institution.",
+    "img1": "https://www.opti.ro/images/new-post/medium_long-learning-management-systems.jpg",
+    "img2": "https://brainguru.co.in/wp-content/uploads/2017/02/EMS.jpg",
+    "img3": "https://theschool-management.com/wp-content/uploads/2021/08/What-does-the-School-Management-System-Include.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Travel Booking System",
+    "description": "A Travel Booking System simplifies the process of booking flights, hotels, and other travel services. This project will develop a comprehensive travel booking platform using SAP BTP CAPM, allowing users to search for and book travel services seamlessly. Key features include flight and hotel search, booking management, payment processing, and customer support. The system will also offer tools for managing travel packages and promotions. Advanced analytics will provide insights into booking trends and customer preferences, helping travel agencies optimize their offerings. Integration with payment gateways and third-party service providers will ensure a smooth and secure booking experience.",
+    "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyDTp3_TAYnVCWLB90gVwIh2i7BpIlQlfUQ&s",
+    "img2": "https://miro.medium.com/v2/resize:fit:1200/1*z_vvsBAhMJZK8d41rcn4tQ.jpeg",
+    "img3": "https://www.booklogic.net/wp-content/uploads/2023/06/Downloader.la-6490594dba30f.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Real Estate Management System",
+    "description": "A Real Estate Management System helps manage properties, tenants, and leases efficiently. This project will develop a robust system using SAP BTP CAPM to manage real estate operations, including property listings, lease management, and tenant communications. Key features include property management, lease administration, maintenance requests, and financial reporting. The system will also offer tools for marketing properties and tracking tenant interactions. Advanced analytics will provide insights into property performance and occupancy rates, helping property managers make informed decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall efficiency.",
+    "img1": "https://www.futuresoft.co.ke/wp-content/uploads/2019/08/0.png",
+    "img2": "https://media.licdn.com/dms/image/C4E12AQGkDfwV5X1kPQ/article-cover_image-shrink_600_2000/0/1633947495281?e=2147483647&v=beta&t=c5KpDbrzWshTcwzAHhwBmpjw9DwujlNCSnFfiLG-1fc",
+    "img3": "https://geekflare.com/wp-content/uploads/2022/11/Best-Property-Management-Accounting-Software-for-Landlords.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Learning Management System (LMS)",
+    "description": "A Learning Management System (LMS) facilitates online learning by providing a platform for course delivery, tracking, and management. This project involves creating an LMS using SAP BTP CAPM to support educational institutions and corporate training programs. Key features include course creation, content management, student enrollment, progress tracking, and assessments. The system will also offer tools for collaboration and communication between students and instructors. Advanced analytics will provide insights into learner performance and course effectiveness. Integration with other SAP modules will ensure smooth data flow and enhance the overall learning experience.",
+    "img1": "https://storage.googleapis.com/prod-cdn-blogs/2024/03/LMS-Bannar.png",
+    "img2": "https://www.hurix.com/wp-content/uploads/2023/02/Image_1-44-1200x565.jpgw3_.webp",
+    "img3": "https://gcvltct13m8r.cdn.shift8web.com/blogs/wp-content/uploads/2024/03/LMS-Info.png"
+  },
+  {
+    "id": 13,
+    "title": "Event Management System",
+    "description": "An Event Management System helps organize and manage events efficiently, from planning to execution. This project will develop a comprehensive system using SAP BTP CAPM to handle event planning, registration, ticketing, and attendee management. Key features include event scheduling, venue management, registration forms, ticket sales, and attendee tracking. The system will also offer tools for managing sponsors, vendors, and event logistics. Advanced analytics will provide insights into event performance and attendee engagement, helping organizers optimize future events. Integration with payment gateways and third-party service providers will ensure a smooth and seamless event experience.",
+    "img1": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_f9502fbb-ce5e-4c8e-8f83-990716e6a529.webp",
+    "img2": "https://media.licdn.com/dms/image/D5612AQHhWIpt6vzpow/article-cover_image-shrink_720_1280/0/1674713288850?e=2147483647&v=beta&t=w2TPZbF2qfYI3ysA3i3ZUFMu3UFVM8Ps0-MgxoCXmjc",
+    "img3": "https://media.licdn.com/dms/image/D4D12AQF8xOWn1phsXg/article-cover_image-shrink_720_1280/0/1683537301022?e=2147483647&v=beta&t=6E26Y9Oq95O2xmHlO1AGoVMVGFjZHf7q7NHo8wbUPUo"
+  },
+  {
+    "id": 14,
+    "title": "Restaurant Management System",
+    "description": "A Restaurant Management System streamlines restaurant operations, including reservations, order management, and inventory control. This project involves creating a system using SAP BTP CAPM to enhance restaurant efficiency and customer experience. Key features include table reservations, order management, kitchen display system, and inventory management. The system will also offer tools for managing menus, staff schedules, and customer loyalty programs. Advanced analytics will provide insights into sales trends and operational performance, helping restaurant owners make informed decisions. Integration with payment gateways and third-party delivery services will ensure a smooth and efficient operation.",
+    "img1": "https://d1krbhyfejrtpz.cloudfront.net/blog/wp-content/uploads/2022/09/07132643/Restaurant-Management-System-A-Complete-Guide.jpg",
+    "img2": "https://www.deonde.co/blog/wp-content/uploads/2022/04/Features-of-Restaurant-Management-System-1024x538.png",
+    "img3": "https://www.lovelycoding.org/wp-content/uploads/2022/09/Restaurant-Management-System.webp"
+  },
+  {
+    "id": 15,
+    "title": "Fleet Management System",
+    "description": "A Fleet Management System helps businesses manage their vehicle fleet efficiently, ensuring optimal performance and reducing operational costs. This project will develop a comprehensive system using SAP BTP CAPM to track vehicles, manage maintenance, and monitor driver performance. Key features include vehicle tracking, maintenance scheduling, fuel management, and driver logs. The system will also offer tools for route optimization and compliance management. Advanced analytics will provide insights into fleet performance and operational efficiency, helping businesses make data-driven decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall fleet management capabilities.",
+    "img1": "https://www.dispatchtrack.com/hubfs/multi%20stop%20route%20planning%20software.webp",
+    "img2": "https://www.geotab.com/CMS-Media-production/Product/MyGeotab/Updated-UI-Images/mygeotab-dashboard-end-to-end-solution-ui-smart-mockup-1-2022-EN-NA-web@2x.png",
+    "img3": "https://www.researchgate.net/publication/308980725/figure/fig1/AS:415838931832833@1476155135687/Fleet-management-system-based-on-AVL-GPS-satellites-and-GSM-cellular-network.png"
+  },
+  {
+    "id": 16,
+    "title": "Hotel Management System",
+    "description": "A Hotel Management System streamlines hotel operations, including reservations, check-in/check-out, and billing. This project will develop a robust system using SAP BTP CAPM to manage hotel operations efficiently. Key features include room reservations, guest check-in/check-out, billing and invoicing, and housekeeping management. The system will also offer tools for managing guest profiles, amenities, and staff schedules. Advanced analytics will provide insights into occupancy rates, revenue, and guest satisfaction, helping hotel managers optimize operations. Integration with payment gateways and third-party booking platforms will ensure a smooth and seamless guest experience.",
+    "img1": "https://www.lovelycoding.org/wp-content/uploads/2022/09/Hotel-Management-System.webp",
+    "img2": "https://miro.medium.com/v2/resize:fit:1200/1*XUrSasLtkB0VoXcLEMfJKg.jpeg",
+    "img3": "https://www.altexsoft.com/media/2018/06/hotel-pms-modules.png"
+  },
+  {
+    "id": 17,
+    "title": "Transport Management System",
+    "description": "A Transport Management System (TMS) helps businesses manage their transportation operations efficiently, ensuring timely deliveries and reducing costs. This project will develop a comprehensive TMS using SAP BTP CAPM to manage shipments, track vehicles, and optimize routes. Key features include shipment planning, carrier selection, vehicle tracking, and delivery scheduling. The system will also offer tools for managing freight rates, compliance, and performance metrics. Advanced analytics will provide insights into transportation efficiency and cost savings, helping businesses make informed decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall transportation management capabilities.",
+    "img1": "https://imageio.forbes.com/specials-images/imageserve/64f76c6752edba2898b01580/Transport-and-logistic-concept--Manager-and-engineer-checking-and-control-logistic/960x0.jpg?format=jpg&width=960",
+    "img2": "https://cdn.prod.website-files.com/62c56c99d596a8d8e9eee78f/62d4d8ca0aa2d63bb6682bbd_1655438239054.jpeg",
+    "img3": "https://www.altexsoft.com/static/blog-post/2023/11/0da004e2-7bd4-4711-b9e8-29d673cba2b6.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Warehouse Management System",
+    "description": "A Warehouse Management System (WMS) is essential for managing warehouse operations, including inventory control, order fulfillment, and logistics. This project will develop a robust WMS using SAP BTP CAPM to optimize warehouse efficiency and accuracy. Key features include inventory tracking, order management, picking and packing, and shipping. The system will also offer tools for managing warehouse layout, labor, and equipment. Advanced analytics will provide insights into warehouse performance, helping managers identify bottlenecks and improve processes. Integration with other SAP modules will ensure seamless data flow and enhance overall warehouse management capabilities.",
+    "img1": "https://infowordpress.s3.ap-south-1.amazonaws.com/wp-content/uploads/2023/06/05101143/warehouse-management-system-wms-workflow-1024x576.png",
+    "img2": "https://veridian.info/wp-content/uploads/2019/01/warehouse-management-system-1.jpg",
+    "img3": "https://www.ithinklogistics.com/blog/wp-content/uploads/2019/12/functions-of-wms-1.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Retail Management System",
+    "description": "A Retail Management System streamlines retail operations, including point of sale (POS), inventory management, and customer service. This project involves creating a comprehensive system using SAP BTP CAPM to enhance retail efficiency and customer experience. Key features include POS, inventory tracking, customer management, and sales reporting. The system will also offer tools for managing promotions, loyalty programs, and staff schedules. Advanced analytics will provide insights into sales trends and customer behavior, helping retailers make informed decisions. Integration with payment gateways and e-commerce platforms will ensure a smooth and seamless retail operation.",
+    "img1": "https://miro.medium.com/v2/resize:fit:1040/1*gtDoab4Y7dqIb0FhuwCzUw.jpeg",
+    "img2": "https://www.salesbabu.com/wp-content/uploads/2021/11/Retail-Order-Management-System.png",
+    "img3": "https://www.bbs.unibo.eu/wp-content/uploads/2020/02/GIretail_full_12003.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Energy Management System",
+    "description": "An Energy Management System (EMS) helps businesses monitor and optimize energy consumption, reducing costs and environmental impact. This project will develop a robust EMS using SAP BTP CAPM to track energy usage, identify inefficiencies, and implement energy-saving measures. Key features include energy monitoring, real-time data visualization, and predictive analytics. The system will also offer tools for managing energy procurement, compliance, and sustainability initiatives. Advanced analytics will provide insights into energy usage patterns and cost savings, helping businesses make data-driven decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall energy management capabilities.",
+    "img1": "https://www.rajstartup.com/productImage/Energy%20Management%20(1).jpg",
+    "img2": "https://d27aquackk44od.cloudfront.net/wp-content/uploads/2022/12/19132925/energy-management-1024x607.jpg",
+    "img3": "https://st.depositphotos.com/1000423/4067/i/450/depositphotos_40678455-stock-photo-power-in-hands.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Construction Management System",
+    "description": "A Construction Management System helps manage construction projects efficiently, from planning to execution. This project will develop a comprehensive system using SAP BTP CAPM to manage project schedules, resources, and budgets. Key features include project planning, resource allocation, progress tracking, and financial management. The system will also offer tools for managing subcontractors, materials, and equipment. Advanced analytics will provide insights into project performance and cost control, helping managers make informed decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall construction management capabilities.",
+    "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fUmwaGvQvkc32szOyKZwtEwDQADBXOkIkQ&s",
+    "img2": "https://i0.wp.com/www.lovelycoding.org/wp-content/uploads/2022/09/Construction-Work-Management-System.webp?fit=640%2C427&ssl=1",
+    "img3": "https://cdn.techjockey.com/blog/wp-content/uploads/2019/08/31182443/top-free-construction-estimating-software.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Visitor Management System",
+    "description": "A Visitor Management System helps businesses manage visitor information and enhance security. This project involves creating a robust system using SAP BTP CAPM to handle visitor registration, check-in/check-out, and tracking. Key features include visitor pre-registration, badge printing, host notifications, and real-time visitor tracking. The system will also offer tools for managing visitor logs, compliance, and reporting. Advanced analytics will provide insights into visitor patterns and security metrics, helping businesses improve safety and efficiency. Integration with other SAP modules will ensure seamless data flow and enhance overall visitor management capabilities.",
+    "img1": "https://happy-visitor.com/wp-content/uploads/2020/07/9blog.png",
+    "img2": "https://advantidge.com/wp-content/uploads/2016/12/4-Features-of-a-Good-Visitor-Management-System.png",
+    "img3": "https://www.starlinkindia.com/blog/wp-content/uploads/2022/06/starlink-2-1.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Insurance Management System",
+    "description": "An Insurance Management System helps insurance companies manage policies, claims, and customer interactions efficiently. This project will develop a comprehensive system using SAP BTP CAPM to handle policy administration, claims processing, and customer management. Key features include policy issuance, claims management, underwriting, and customer support. The system will also offer tools for managing agents, commissions, and regulatory compliance. Advanced analytics will provide insights into policy performance, claims trends, and customer behavior, helping insurers make informed decisions. Integration with other SAP modules will ensure seamless data flow and enhance overall insurance management capabilities.",
+    "img1": "https://lunetta.in/img/product/insurance/insurance.jpg",
+    "img2": "https://www.damcogroup.com/wp-content/uploads/2024/02/insurance-agency-management.jpg",
+    "img3": "https://www.velvetech.com/wp-content/uploads/2021/05/insurance-policy-management-software-fb.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Document Management System",
+    "description": "A Document Management System (DMS) helps organizations manage and store electronic documents efficiently. This project involves creating a robust DMS using SAP BTP CAPM to handle document capture, storage, retrieval, and sharing. Key features include document indexing, version control, access control, and workflow automation. The system will also offer tools for managing document metadata, compliance, and auditing. Advanced analytics will provide insights into document usage and collaboration patterns, helping organizations improve productivity and information governance. Integration with other SAP modules will ensure seamless data flow and enhance overall document management capabilities.",
+    "img1": "https://www.mastercontrol.com/images/default-source/gxp-lifeline/20222/august/2022-bl-data-integrity-standards_900x400.png?Status=Temp&sfvrsn=adfe7dcc_2",
+    "img2": "https://kmslh.com/wp-content/uploads/2020/08/shutterstock_1182989344-scaled.jpg",
+    "img3": "https://cdn.prod.website-files.com/5f874a02b14267b40a9fd71b/62a8c24b662e7f6faf186d37_hero-document-management-systems-part-1-what-is-a-dms.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Sales Management System",
+    "description": "A Sales Management System helps businesses manage their sales operations efficiently, from lead generation to order fulfillment. This project will develop a comprehensive system using SAP BTP CAPM to handle customer interactions, sales pipelines, and performance tracking. Key features include lead management, opportunity tracking, sales forecasting, and order management. The system will also offer tools for managing sales teams, commissions, and customer relationships. Advanced analytics will provide insights into sales trends, performance metrics, and customer behavior, helping businesses optimize their sales strategies. Integration with other SAP modules will ensure seamless data flow and enhance overall sales management capabilities.",
+    "img1": "https://www.d-tools.com/hubfs/D-Tools-Blog-11-Benefits-of-a-Sales-Management-System-IMAGES-Featured.jpg",
+    "img2": "https://www.maplecrm.com/crm-articles/sales-management-software/sales-management-software.png",
+    "img3": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_39884e17-1896-43bd-8e06-af57b47737bc.webp"
+  },
+  {
+    "id": 26,
+    "title": "Procurement Management System",
+    "description": "A Procurement Management System helps businesses manage their purchasing activities efficiently, from requisition to payment. This project involves creating a robust system using SAP BTP CAPM to handle supplier management, purchase orders, and invoicing. Key features include supplier selection, purchase order creation, approval workflows, and payment processing. The system will also offer tools for managing contracts, compliance, and supplier performance. Advanced analytics will provide insights into procurement spend, supplier metrics, and cost savings, helping businesses optimize their procurement strategies. Integration with other SAP modules will ensure seamless data flow and enhance overall procurement management capabilities.",
+    "img1": "https://www.procuredesk.com/wp-content/uploads/2024/02/online-procurement-management-system.jpeg",
+    "img2": "https://businessyield.com/wp-content/uploads/2023/05/Procurement-management.png",
+    "img3": "https://happay.com/blog/wp-content/uploads/sites/12/2023/06/procurement-lifecycle.webp"
+  },
+  {
+    "id": 27,
+    "title": "Social Media Management System",
+    "description": "A Social Media Management System helps businesses manage their social media presence efficiently, from content creation to engagement tracking. This project will develop a comprehensive system using SAP BTP CAPM to handle social media scheduling, publishing, and analytics. Key features include content calendars, social media monitoring, engagement tracking, and reporting. The system will also offer tools for managing multiple social media accounts, audience segmentation, and campaign management. Advanced analytics will provide insights into social media performance, audience behavior, and content effectiveness, helping businesses optimize their social media strategies. Integration with other SAP modules will ensure seamless data flow and enhance overall social media management capabilities.",
+    "img1": "https://cdn.educba.com/academy/wp-content/uploads/2020/06/Social-Media-Management-Tools.jpg",
+    "img2": "https://ahashanulhoque.com/wp-content/uploads/2023/05/6a8ba367e5924dfcb94432416a5d26e2.jpg",
+    "img3": "https://imageio.forbes.com/specials-images/imageserve/602fd9ae6c195c8750354b5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "id": 28,
+    "title": "Quality Management System",
+    "description": "A Quality Management System (QMS) helps businesses ensure product and service quality by managing quality processes and compliance. This project involves creating a robust QMS using SAP BTP CAPM to handle quality planning, control, assurance, and improvement. Key features include quality inspections, non-conformance management, corrective actions, and audits. The system will also offer tools for managing quality documentation, compliance, and training. Advanced analytics will provide insights into quality metrics, defect trends, and process improvements, helping businesses maintain high-quality standards. Integration with other SAP modules will ensure seamless data flow and enhance overall quality management capabilities.",
+    "img1": "https://cdn.educba.com/academy/wp-content/uploads/2019/06/Quality-Management-System.jpg",
+    "img2": "https://i.ytimg.com/vi/7elsY-aBpC4/maxresdefault.jpg",
+    "img3": "https://www.invensislearning.com/blog/wp-content/uploads/2024/01/Types-of-Quality-Management-Systems.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Risk Management System",
+    "description": "A Risk Management System helps businesses identify, assess, and mitigate risks efficiently. This project will develop a comprehensive system using SAP BTP CAPM to handle risk identification, assessment, monitoring, and reporting. Key features include risk registers, risk assessments, mitigation plans, and incident tracking. The system will also offer tools for managing compliance, audits, and business continuity plans. Advanced analytics will provide insights into risk trends, mitigation effectiveness, and compliance metrics, helping businesses manage risks proactively. Integration with other SAP modules will ensure seamless data flow and enhance overall risk management capabilities.",
+    "img1": "https://media.istockphoto.com/id/1364371014/photo/risk-management-and-mitigation-to-reduce-exposure-for-financial-investment-projects.jpg?s=612x612&w=0&k=20&c=h_zHS6VCBJ7lvsp9NaPoaQxDOGo6tYOW826e3fipzRQ=",
+    "img2": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/08/01180635/iStock-1189050206.jpg",
+    "img3": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/06/Untitled-design-76.png"
+  },
+  {
+    "id": 30,
+    "title": "Customer Support System",
+    "description": "A Customer Support System helps businesses manage customer interactions and support tickets efficiently. This project involves creating a robust system using SAP BTP CAPM to handle customer inquiries, issue tracking, and resolution. Key features include ticket creation, assignment, escalation, and resolution. The system will also offer tools for managing customer communications, knowledge base, and service level agreements (SLAs). Advanced analytics will provide insights into support metrics, customer satisfaction, and agent performance, helping businesses improve their customer support operations. Integration with other SAP modules will ensure seamless data flow and enhance overall customer support capabilities.",
+    "img1": "https://www.scnsoft.com/blog-pictures/crm-pics/helpdesk-software.png",
+    "img2": "https://www.cflowapps.com/wp-content/uploads/2023/07/supprt_ticketng-System.jpg",
+    "img3": "https://i0.wp.com/www.sutisoft.com/blog/wp-content/uploads/2021/12/Automated-Ticketing-System-scaled.jpg?fit=2560%2C1706&ssl=1"
+  }
+]
