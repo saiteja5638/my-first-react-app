@@ -4,11 +4,11 @@ import Navbar from '../Navbar';
 import Footer from '../Footer';
 import modelData from '../model/projects.json';
 import Cour  from '../model/Courses.json';
-import { useLocation, useSearchParams } from 'react-router-dom';
+import { useLocation, useSearchParams ,useNavigate   } from 'react-router-dom';
 import Carousel from 'react-bootstrap/Carousel';
 
 export default function View() {
-
+    const navigate = useNavigate();
     const [searchParams] = useSearchParams();
     const id = searchParams.get('$id');
     const cid = searchParams.get('$cid');
@@ -25,7 +25,11 @@ export default function View() {
                 return i.id == cid
             })
         }
-
+       
+        function buy_now() {
+            navigate(`/sign-up?$id=${get_item[0].title}`);
+            
+        }
 
     return (
         <>
@@ -62,7 +66,7 @@ export default function View() {
                     <div className='view_detail_descrp_content' >
                         <p>{get_item[0].description} </p>
                     </div>
-                    <button className='Buy_Now'  >Buy Now</button>
+                    <button className='Buy_Now' onClick={buy_now}  >Buy Now</button>
                     </div>
             </div>
             <Footer />
