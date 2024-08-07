@@ -3,6 +3,7 @@ import '../../App.css';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import modelData from '../model/projects.json';
+import Cour  from '../model/Courses.json';
 import { useLocation, useSearchParams } from 'react-router-dom';
 import Carousel from 'react-bootstrap/Carousel';
 
@@ -10,10 +11,22 @@ export default function View() {
 
     const [searchParams] = useSearchParams();
     const id = searchParams.get('$id');
+    const cid = searchParams.get('$cid');
+    var get_item;
+    if(id)
+        {
+             get_item = modelData.filter(i => {
+                return i.id == id
+            })
+        }
+        else
+        {
+             get_item = Cour.filter(i => {
+                return i.id == cid
+            })
+        }
 
-    let get_item = modelData.filter(i => {
-        return i.id == id
-    })
+
     return (
         <>
             <Navbar />

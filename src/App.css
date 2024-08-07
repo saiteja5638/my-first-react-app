@@ -74,6 +74,10 @@
   padding: 50px;
   text-decoration: underline;
 }
+.Projects_header_h1::first-letter{
+  color: red;
+  font-size: 50px;
+}
 
 .Creater_main_container{
   width: 100%;

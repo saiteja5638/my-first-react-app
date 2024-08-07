@@ -15,10 +15,10 @@ export default function Courses()
         {Cour.map((item, index) => (
           <div className='Proj_container_item' key={index}>
             <CardItem
-              src={item.src}
-              text={item.description}
+              src={item.img1}
+              text={item.courses}
               label={item.title}
-              path={item.path}
+              path={`/view_detail?$cid=${item.id}`}
             />
           </div>
         ))}

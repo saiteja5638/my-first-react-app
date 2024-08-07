@@ -1,81 +1,137 @@
 [
     {
         "id": 1,
-        "title": "WEB",
-        "description": "HTML",
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"
+        "title": "Web Development",
+        "description": "This Web Development combo course covers HTML, CSS, and JavaScript. It provides real-time career opportunities for web development, preparing students for roles such as front-end developer, web designer, and full-stack developer. The course includes hands-on projects and real-world applications to ensure practical knowledge and job readiness.",
+        "courses": "HTML, CSS, JavaScript",
+        "img1": "https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg",
+        "img2": "https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg",
+        "img3": "https://www.creative-tim.com/blog/content/images/size/w960/2022/01/which-development-job-is-right-for-you.jpg"
     },
     {
         "id": 2,
-        "title": "WEB",
-        "description": "CSS",
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkMYb955fj7IRiw-8g6gmn5GoZzKni1Kv8g&s"
+        "title": "MERN Stack Development",
+        "description": "The MERN Stack Development course includes MongoDB, Express.js, React.js, and Node.js. This course is designed to equip students with the skills needed to build full-stack applications. It offers real-time career opportunities for full-stack developers, back-end developers, and front-end developers, emphasizing hands-on projects and real-world applications.",
+        "courses": "MongoDB, Express.js, React.js, Node.js",
+        "img1": "https://miro.medium.com/v2/resize:fit:1030/1*AWOohKIQ_FGJrIb6VNKsdA.jpeg",
+        "img2": "https://nextbridgeinstitute.com/wp-content/uploads/2021/03/How-to-Master-Mern-Stack-Development.jpg",
+        "img3": "https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg"
     },
     {
         "id": 3,
-        "title": "WEB",
-        "description": "JAVASCRIPT",
-        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+        "title": "SAP BTP Development",
+        "description": "The SAP BTP Development course covers SAP Business Technology Platform services and tools. Students will learn about SAP CAPM, SAP UI5, and SAP Fiori. This course prepares students for roles such as SAP developer, SAP consultant, and SAP architect, offering real-time career opportunities and hands-on projects to ensure practical knowledge.",
+        "courses": "SAP CAPM, SAP UI5, SAP Fiori",
+        "img1": "https://a5econsulting.com/wp-content/uploads/2023/10/Artboard-2-copy-jpg.webp",
+        "img2": "https://nttdata-solutions.com/wp-content/usermedia/Image-picture-click-on-cloud-icon-20230405-GLO-EN-1530x750.jpg",
+        "img3": "https://gulfbusiness.com/wp-content/uploads/2022/05/602016480323723712-740x494.png"
     },
     {
         "id": 4,
-        "title": "Backend",
-        "description": "JAVA",
-        "src": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
+        "title": "SAP ABAP Development",
+        "description": "The SAP ABAP Development course includes ABAP programming, ABAP on HANA, and ABAP RESTful programming. This course prepares students for roles such as ABAP developer, SAP technical consultant, and SAP HANA developer. It offers real-time career opportunities and practical projects to ensure comprehensive understanding and job readiness.",
+        "courses": "ABAP Programming, ABAP on HANA, ABAP RESTful Programming",
+        "img1": "https://media.licdn.com/dms/image/D4D12AQGdD2j0SvPz-Q/article-cover_image-shrink_720_1280/0/1680332205498?e=2147483647&v=beta&t=-PlhJLyqmOruaXCj0U_Y19OkzVa82HAVecsBfw0eyy4",
+        "img2": "https://www.cromacampus.com/public/uploads/Blog/2022/11/week_3/SAP_ABAP_architecture_-_Max.webp",
+        "img3": "https://media.licdn.com/dms/image/C4E12AQHJR5ZJP0z_WA/article-cover_image-shrink_600_2000/0/1520225784188?e=2147483647&v=beta&t=fCbjqwQTJKRuvPVNeXnKzr3LDugQGTtAtNuA-GkYLyM"
     },
     {
         "id": 5,
-        "title": "DATABASE",
-        "description": "SQL || MYSQL",
-        "src": "https://static.tildacdn.one/tild6238-3035-4335-a333-306335373139/IMG_3349.jpg"
+        "title": "Data Science and Machine Learning",
+        "description": "The Data Science and Machine Learning course covers Python, R, and Machine Learning algorithms. This course is designed to provide real-time career opportunities in data science, machine learning, and artificial intelligence. It emphasizes hands-on projects and real-world applications to ensure practical knowledge and job readiness.",
+        "courses": "Python, R, Machine Learning Algorithms",
+        "img1": "https://assets.thehansindia.com/h-upload/2022/05/27/1294642-daa.webp",
+        "img2": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Real-life-Applications-of-Data-Science-Deep-Learning-and-Artificial-Intelligence-1.jpg",
+        "img3": "https://miro.medium.com/v2/resize:fit:1400/0*1vFj6isMbTSSEzRX.jpg"
     },
     {
         "id": 6,
-        "title": "Backend",
-        "description": "NODE JS",
-        "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/180326602/original/765c30a1e7c9ce34a6d666a013bc8d488716fe8d/develop-your-web-application-on-nodejs.png"
+        "title": "Mobile App Development",
+        "description": "The Mobile App Development course includes Android development, iOS development, and React Native. This course prepares students for roles such as mobile app developer, Android developer, and iOS developer, offering real-time career opportunities and hands-on projects to ensure practical knowledge and job readiness.",
+        "courses": "Android Development, iOS Development, React Native",
+        "img1": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg",
+        "img2": "https://t3.ftcdn.net/jpg/06/51/77/96/360_F_651779668_RtIuIZwT2J248KpR1H5eIs3J8yOGd4mC.jpg",
+        "img3": "https://www.expertappdevs.com/sitebucket/blog/20220810130346-mobile-app-development-process.jpg"
     },
     {
         "id": 7,
-        "title": "TESTING",
-        "description": "POSTMAN",
-        "src": "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
+        "title": "Cloud Computing",
+        "description": "The Cloud Computing course covers AWS, Azure, and Google Cloud Platform (GCP). This course is designed for individuals aiming to become cloud architects, cloud engineers, or DevOps specialists. Students will learn about cloud infrastructure, services, and deployment strategies. Practical projects and real-world scenarios will ensure that learners gain hands-on experience and are job-ready.",
+        "courses": "AWS, Azure, Google Cloud Platform",
+        "img1": "https://www.nitorinfotech.com/wp-content/uploads/2021/12/4-Pillars-of-Cloud-Computing-1.jpg?ver=35",
+        "img2": "https://media.licdn.com/dms/image/D5612AQGdJwTfkaVA9A/article-cover_image-shrink_720_1280/0/1695748849925?e=2147483647&v=beta&t=lLpyk_jq2xK54oG6T_W3rZkz-qwtNdVQsyVY8W7X1WE",
+        "img3": "https://media.licdn.com/dms/image/D4E12AQHarxIcop-BNg/article-cover_image-shrink_600_2000/0/1702961609559?e=2147483647&v=beta&t=DOyv4kK5f9nfrpUVdcDeTYoxLcgjw46NkK-zYBSTTAM"
     },
     {
         "id": 8,
-        "title": "TESTING",
-        "description": "MANUAL TESTING",
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CnptgLAe6hPinaO8T7LqxheMksxw4AVhIQ&s"
+        "title": "Cybersecurity Fundamentals",
+        "description": "The Cybersecurity Fundamentals course covers network security, ethical hacking, and threat management. This course prepares students for roles such as security analyst, ethical hacker, and cybersecurity consultant. It includes practical exercises on securing networks, identifying vulnerabilities, and implementing security measures. The course is designed to provide real-time career opportunities and hands-on skills.",
+        "courses": "Network Security, Ethical Hacking, Threat Management",
+        "img1": "https://media.licdn.com/dms/image/D5612AQGYFM-HFwEfZg/article-inline_image-shrink_1000_1488/0/1697746014793?e=1726704000&v=beta&t=O8Mwdue4WBWkit49K0iOVJEV7OvuHdPot_YDef5T3S4",
+        "img2": "https://i0.wp.com/www.coursejoiner.com/wp-content/uploads/2024/05/Cybersecurity.jpg?resize=696%2C392&ssl=1",
+        "img3": "https://assets.entrepreneur.com/content/3x2/2000/1677621806-shutterstock-2179361365.jpg"
     },
     {
         "id": 9,
-        "title": "WEB DEVELOPMENT",
-        "description": "MERN STACK DEVELOMENT",
-        "src": "https://miro.medium.com/v2/resize:fit:1400/1*Hm-G7dLwMZtLOPWbL6nkww.jpeg"
+        "title": "Digital Marketing",
+        "description": "The Digital Marketing course includes SEO, SEM, and Social Media Marketing. This course is designed for individuals looking to pursue careers in digital marketing, including roles like digital marketer, SEO specialist, and social media manager. The course covers strategies for improving online presence, driving traffic, and analyzing marketing performance. Hands-on projects and real-world case studies will ensure practical experience and career readiness.",
+        "courses": "SEO, SEM, Social Media Marketing",
+        "img1": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg",
+        "img2": "https://www.michaelpage.ae/sites/michaelpage.ae/files/legacy/7_digital_skills600x387.png",
+        "img3": "https://designsvalley.com/wp-content/uploads/2024/02/core-components-digital-marketing-1024x585.webp"
     },
     {
         "id": 10,
-        "title": "STACK DEVELOPMENT",
-        "description": "FULL STACK JAVA DEVELOPMENT",
-        "src": "https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/63862296680a877e33cb39f9_c4.webp"
+        "title": "Game Development",
+        "description": "The Game Development course covers Unity, Unreal Engine, and game design principles. This course prepares students for roles such as game developer, game designer, and software engineer. It includes hands-on projects on creating 2D and 3D games, game physics, and user interaction. The course offers practical experience and real-time career opportunities in the gaming industry.",
+        "courses": "Unity, Unreal Engine, Game Design Principles",
+        "img1": "https://cdn.sanity.io/images/tlr8oxjg/production/8a0f926b1f7c7635d5a0197487d349722ae353bd-1456x816.png?w=3840&q=100&fit=clip&auto=format",
+        "img2": "https://imageio.forbes.com/specials-images/imageserve/6620b6af1dba8edc23ec7c78/The-Role-Of-Generative-AI-In-Video-Game-Development/960x0.jpg?format=jpg&width=960",
+        "img3": "https://techstartups.com/wp-content/uploads/2023/09/The-Role-of-Artificial-Intelligence-in-the-Development-of-Online-Gaming.jpg"
     },
     {
         "id": 11,
-        "title": "Cloud Full Stack  ",
-        "description": "SAP BTP ",
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5lZlNHclxbN-bxLU_IXaq7_rgfqfmrUmBQ&s"
+        "title": "Artificial Intelligence",
+        "description": "The Artificial Intelligence course covers machine learning, neural networks, and natural language processing. This course is designed for individuals aiming to become AI engineers, data scientists, or machine learning specialists. Students will learn about AI algorithms, data processing, and implementing AI solutions. Real-world projects and practical applications will ensure that learners are prepared for careers in AI and machine learning.",
+        "courses": "Machine Learning, Neural Networks, Natural Language Processing",
+        "img1": "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875//960x0.jpg?height=473&width=711&fit=bounds",
+        "img2": "https://media.istockphoto.com/id/1452604857/photo/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg?s=612x612&w=0&k=20&c=GkAOxzduJbUKpS2-LX_l6jSKtyhdKlnPMo2ito4xpR4=",
+        "img3": "https://images.moneycontrol.com/static-mcnews/2024/03/BeFunky-collage-2024-03-20T103129.412.jpg?impolicy=website&width=770&height=431"
     },
     {
         "id": 12,
-        "title": "SAP  FRONTEND ",
-        "description": "SAP UI5 FIORI",
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf6vvGX2uMfpt06Tb5pLRRWgC6W4V7Sgz2A&s"
+        "title": "Blockchain Technology",
+        "description": "The Blockchain Technology course includes blockchain fundamentals, smart contracts, and decentralized applications (DApps). This course prepares students for roles such as blockchain developer, blockchain consultant, and cryptocurrency analyst. It covers the principles of blockchain, creating smart contracts, and developing DApps. Hands-on projects and practical exercises will ensure job readiness and real-time career opportunities.",
+        "courses": "Blockchain Fundamentals, Smart Contracts, DApps",
+        "img1": "https://media.licdn.com/dms/image/D4E12AQHMF8Y7V6-jCw/article-cover_image-shrink_600_2000/0/1692786101137?e=2147483647&v=beta&t=rweLz3-gFwhfkpWZfrVzDrZRCJREKtf3LeJwqeRuzD8",
+        "img2": "https://www.creative-tim.com/blog/content/images/2022/08/blockchain-technology.jpg",
+        "img3": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/06/blockchain.jpeg.jpg"
     },
     {
-        "id": 12,
-        "src": "https://5.imimg.com/data5/SELLER/Default/2021/12/JI/XU/OH/138316357/sap-hr-training-500x500.png",
-        "title": "SAP Backend",
-        "description": "SAP ABAP"
+        "id": 13,
+        "title": "DevOps Engineering",
+        "description": "The DevOps Engineering course covers continuous integration and continuous deployment (CI/CD), containerization, and infrastructure automation. This course is designed for individuals aiming to become DevOps engineers or system administrators. It includes hands-on projects on implementing CI/CD pipelines, using Docker and Kubernetes, and automating infrastructure. The course offers practical experience and real-time career opportunities in DevOps.",
+        "courses": "CI/CD, Docker, Kubernetes",
+        "img1": "https://squareboat.com/storage/photos/22/What%20is%20DevOps.jpg",
+        "img2": "https://peoplactive.com/wp-content/uploads/2023/02/main-banner.jpg",
+        "img3": "https://enteriscloud.com/wp-content/uploads/2021/10/How-is-Cloud-Computing-Dependant-on-DevOps.png"
+    },
+    {
+        "id": 14,
+        "title": "UI/UX Design",
+        "description": "The UI/UX Design course covers user interface design, user experience principles, and prototyping tools. This course prepares students for roles such as UI/UX designer, product designer, and user researcher. It includes hands-on projects on creating wireframes, conducting user research, and designing user-friendly interfaces. The course emphasizes practical experience and real-world applications to ensure career readiness.",
+        "courses": "User Interface Design, User Experience Principles, Prototyping Tools",
+        "img1": "https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/What-is-UI-UX-Design.jpg",
+        "img2": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg",
+        "img3": "https://admin.wac.co/uploads/Blog%20Media/ux_ui-01-3_5915c7e99f7fc2e0.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Enterprise Resource Planning (ERP)",
+        "description": "The ERP course covers SAP ERP, Oracle ERP, and Microsoft Dynamics. This course is designed for individuals looking to pursue careers in ERP consulting, ERP implementation, and business analysis. Students will learn about ERP modules, implementation strategies, and business process integration. The course includes practical exercises and real-world projects to ensure comprehensive understanding and job readiness.",
+        "courses": "SAP ERP, Oracle ERP, Microsoft Dynamics",
+        "img1": "https://static.vecteezy.com/system/resources/previews/005/024/596/non_2x/erp-enterprise-resource-planning-planning-to-manage-the-organization-to-be-able-to-use-resources-efficiently-and-for-maximum-benefit-management-concept-icons-on-virtual-screen-free-photo.jpg",
+        "img2": "https://static.vecteezy.com/system/resources/previews/004/816/049/non_2x/enterprise-resource-planning-erp-software-system-for-business-resource-plans-a-man-s-hand-touches-the-erp-word-on-a-virtual-screen-free-photo.jpg",
+        "img3": "https://thumbs.dreamstime.com/b/enterprise-resource-management-erp-software-system-business-resources-plan-enterprise-resource-management-erp-software-system-190512382.jpg"
     }
-
 ]
