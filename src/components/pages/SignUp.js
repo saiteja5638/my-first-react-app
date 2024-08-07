@@ -1,4 +1,4 @@
-import React from 'react';
+import React ,{ useState }  from 'react';
 import '../../App.css';
 import FloatingLabel from 'react-bootstrap/FloatingLabel';
 import Form from 'react-bootstrap/Form';
@@ -8,9 +8,13 @@ import { Button } from 'react-bootstrap';
 import Image from 'react-bootstrap/Image';
 import { useLocation, useSearchParams ,useHistory  } from 'react-router-dom';
 export default function SignUp() {
+  var [id, setId] = useState('');
 
+  const handleInputChange = (event) => {
+    setId(event.target.value);
+  };
   const [searchParams] = useSearchParams();
-  const id = searchParams.get('$id');
+       id = searchParams.get('$id');
 
   return (
     <>
@@ -47,7 +51,7 @@ export default function SignUp() {
             label="You Looking For "
             className="mb-3"
           >
-            <Form.Control type="text" value={id} disabled />
+            <Form.Control type="text" value={id}   disabled={!!id}   onChange={handleInputChange} />
           </FloatingLabel>
 
           <Button className='Open_app_css' href='https://www.youtube.com/' target='blank' >Sign Up</Button>
