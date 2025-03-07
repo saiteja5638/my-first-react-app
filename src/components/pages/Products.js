@@ -1,27 +1,16 @@
 import React from 'react';
 import '../../App.css';
 import Navbar from '../Navbar';
-import Cards from '../Cards';
-import CardItem from '../CardItem';
-import modelData  from '../model/projects.json';
+
 import { useLocation, useSearchParams } from 'react-router-dom';
 
 export default function Products() {
   return (
     <>
       <Navbar />
-      <h1 className='Projects_header_h1' >Unlock your potential with our premium projects. Dive in and find your perfect match today!</h1>
+      <h1 className='Projects_header_h1' >You Have Successfully Signup,Our Representative will contact soon </h1>
       <div className='Projects_container'>
-        {modelData.map((item, index) => (
-          <div className='Proj_container_item' key={index}>
-            <CardItem
-              src={item.img1}
-              text={item.title}
-              
-              path={`/view_detail?$id=${item.id}`}
-            />
-          </div>
-        ))}
+         <img  src="https://cdn.dribbble.com/userupload/22333996/file/original-6ac4030147adbe5d9381c4600c79eccb.gif" className='imahe' />
       </div>
     </>
   );

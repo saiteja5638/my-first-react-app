@@ -29,7 +29,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            <h3>Let's Learn</h3>
+            <h3>SBP SkillNexus</h3>
             <i class='fab fa-typo3' />
           </Link>
 
@@ -46,7 +46,7 @@ function Navbar() {
                 Courses
               </Link>
             </li>
-            <li className='nav-item'>
+            {/* <li className='nav-item'>
               <Link
                 to='/products'
                 className='nav-links'
@@ -57,7 +57,7 @@ function Navbar() {
                 </span>
                 Project Store
               </Link>
-            </li>
+            </li> */}
             <li className='nav-item'>
               <Link
                 to='/creater'

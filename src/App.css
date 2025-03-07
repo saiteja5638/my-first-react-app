@@ -39,7 +39,9 @@
   position: relative;
   left: 230px;
   top : 40px;
+  color: black;
 }
+
 
 .Signup_image{
   position: relative;
@@ -253,4 +255,9 @@
   transition: all 0.3s ease-out;
   transition: 250ms;
   border: 0;
+}
+
+.imahe{
+  width: 500px;
+  height: 500px;
 }

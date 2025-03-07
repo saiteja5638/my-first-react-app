@@ -6,7 +6,7 @@ import Navbar from '../Navbar';
 import Footer from '../Footer';
 import { Button } from 'react-bootstrap';
 import Image from 'react-bootstrap/Image';
-import { useLocation, useSearchParams ,useHistory  } from 'react-router-dom';
+import { useLocation, useSearchParams ,useHistory ,Link  } from 'react-router-dom';
 export default function SignUp() {
   var [id, setId] = useState('');
 
@@ -54,7 +54,10 @@ export default function SignUp() {
             <Form.Control type="text" value={id}   disabled={!!id}   onChange={handleInputChange} />
           </FloatingLabel>
 
-          <Button className='Open_app_css' href='https://www.youtube.com/' target='blank' >Sign Up</Button>
+          <Button className="Open_app_css">
+            <button className="Open_app_css" ></button>
+  <Link  style={{ textDecoration: 'none', color: 'white' }}  to="/products">Sign Up</Link>
+</Button>
         </div>
       </div>
       <Footer />
